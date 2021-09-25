@@ -1,0 +1,6 @@
+Comandos básicos para usar no Git Bash:
+
+- cd
+- dir
+- mkdir
+-del / rmdir
